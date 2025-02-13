@@ -4,8 +4,8 @@ Implementation of Simplex Tableau algorithm in C++, for the  course CSC301 2024-
 
 ## Details
 
-- **NAME**: ADAMU MUS'AB
-- **MATRIC NO**: U22CS1008
+- **NAME**: Alex Ahmed Akpojosevbe 
+- **MATRIC NO**: U22CS1021
 - **DEPARTMENT**: COMPUTER SCIENCE
 - **GROUP**: GROUP 3 (THREE)
 - **FACULTY**: FACULTY OF COMPUTING
